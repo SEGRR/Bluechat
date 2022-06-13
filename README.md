@@ -16,7 +16,7 @@ Using this application 2 people can chat with each other using Bluetooth. This a
 
 ## Installation
 
-- Download & install [Bluechat APK](https://katherinempeterson.com/)
+- Download & install [Bluechat APK]([https://katherinempeterson.com/](https://github.com/SEGRR/Bluechat/blob/main/app/debug/app-debug.apk))
   
 
 - Or Clone the project
